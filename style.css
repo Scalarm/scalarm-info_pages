@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.scalarm-logo {
+  height: 100px;
+  background-image: url("scalarm-vector.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+section {
+  text-align: center;
+}
